@@ -1,23 +1,28 @@
-# portfolio-em-react
+# lista-de-tarefas
 
 ![Animação]
 
 ## 🏁 Visão Geral:
 
-Construi um portfólio em React do zero, criando e reutilizando componentes, aplicando props e também estilizando com CSS.
+Construi um projeto front-end completo utilizando a biblioteca de React.JS, uma lista de tarefas.
+Figma usado como base para o desenvolvimento do layout.
 
 
 ## 🚀 Tecnologias:
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
 
-## ✔️ Aplicação com 5 seções principais:: 
+## ✔️ Funcionalidades: 
 
-- Navbar: o menu superior de navegação;
-- Presentation: uma seção de apresentação/sobre;
-- Skills: habilidades e tecnologias;
-- Projects: a lista de projetos;
-- Footer: o rodapé com informações adicionais.
+Permite ao usuário visualizar as listas, tarefas e os detalhes de uma tarefa por um modal;
+Interface intuitiva e fácil de usar para poder ser utilizada por pessoas com diferentes níveis de experiência em tecnologia;
+Os ícones de editar e apagar são funcionais. Logo quando clicar, aparece os modais de cada um:
+- Criar uma nova tarefa
+- Editar o status da tarefa
+- Editar o nome da tarefa
+- Deletar tarefa.
+
 
 ## 👯 Clone este projeto:
 
