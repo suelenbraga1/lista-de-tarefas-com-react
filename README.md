@@ -21,10 +21,7 @@ Os ícones de editar e apagar são funcionais. Logo quando clicar, aparece os mo
 - Editar o nome da tarefa
 - Deletar tarefa.
 
+👾 Link da página:
 
-## 👯 Clone este projeto:
+https://vercel.com/suelen-bragas-projects-4f2f422f/lista-de-tarefas-com-react
 
-```bash
-$ git clone https://github.com/suelenbraga1/lista-de-tarefas.git
-# Acessar
-$ cd listas-de-tarefas
