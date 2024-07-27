@@ -1,0 +1,6 @@
+article{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    & img{width: 35px; height: 30px;}
+}
