@@ -1,7 +1,5 @@
 # lista-de-tarefas
 
-![Animação]
-
 ## 🏁 Visão Geral:
 
 Construi um projeto front-end completo utilizando a biblioteca de React.JS, uma lista de tarefas.
